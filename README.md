@@ -12,7 +12,7 @@
 
 ## MP3 i/o (hard wired):
 - 7 rx
-= 6 tx
+- 6 tx
 
 
 ## Pin Order:
